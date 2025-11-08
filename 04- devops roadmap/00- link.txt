@@ -1,0 +1,15 @@
+https://roadmap.sh/devops
+https://roadmap.sh/devops/projects
+
+
+https://roadmap.sh/python
+https://roadmap.sh/linux
+
+
+
+
+https://roadmap.sh/shell-bash
+https://roadmap.sh/docker
+https://roadmap.sh/backend
+https://roadmap.sh/cyber-security
+https://roadmap.sh/golang
