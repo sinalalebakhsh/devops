@@ -1,3 +1,37 @@
+update all:
+sudo apt update
+
+upgrade all:
+sudo apt upgrade
+
+sample:
+sleep 1000
+
+find background jobs:
+jobs
+
+get to background:
+bg
+
+
+get to forground:
+fg
+
+
+
 ps -aux | grep docker
 
 sudo apt install nginx
+
+htop
+
+
+kill All:
+pidof nginx | xargs sudo kill -9
+
+
+install iotop:
+sudo apt install iotop
+
+show GPG list:
+apt-key list
